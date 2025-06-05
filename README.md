@@ -1,2 +1,5 @@
-# bob-nixvim
-:book: An arcane, declarative grimoire that brings your code to life with the power of Nixvim.
+# BoB-Vim
+An opinionated nixvim configuration...
+
+## License
+[MIT](./LICENSE) © 2025 Adam Arbour
